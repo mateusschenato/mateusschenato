@@ -1,6 +1,6 @@
 ### Eaee 👋
 
-<a href="https://www.linkedin.com/in/mateusschenato/" target="_blank"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/mateusschenato/" style="display: flex; align-items: center;" target="_blank"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>
 
 <!--
 **mateusschenato/mateusschenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
