@@ -1,6 +1,6 @@
 ### Eaee 👋
 
-- 💬 <a href="https://schenato.com.br">About me</a>
+-  <a href="https://schenato.com.br">💬 About me</a>
 
  - <a href="https://www.linkedin.com/in/mateusschenato/" style="display: flex; align-items: center;" target="_blank">
     <img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
